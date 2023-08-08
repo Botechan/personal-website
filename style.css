@@ -1,0 +1,32 @@
+.firstname,.lastname {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.summary{
+    font-family: 'Noto Sans', sans-serif;
+    font-size: xx-large
+}
+
+#hero{
+    background-color: #F6F4EB;
+}
+
+#aboutme{
+    background-color: #93BFCF;
+}
+
+#resume{
+    background-color: #EEE9DA;
+}
+
+.profile-image{
+    border-radius: 50%;
+    background-color: #BDCDD6;
+}
+
+#contact{
+    background-color: #EEE9DA;
+}
+#footer{
+    background-color: #112D4E;
+}
